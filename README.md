@@ -32,8 +32,16 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/zustand/zustand-original.svg" alt="zustand" width="40" height="40"/> </a>
+  <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="react query" width="40" height="40"/> </a> 
+  <a href="https://tanstack.com/router/latest" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="tanstack router" width="40" height="40"/> </a> 
+  <a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zod/3E68B7" alt="zod" width="40" height="40"/> </a>
+  <a href="https://eslint.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> </a>
+  <a href="https://prettier.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="prettier" width="40" height="40"/> </a>
+  <a href="https://typicode.github.io/husky/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/husky/000000" alt="husky" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vercel/000000" alt="vercel" width="40" height="40"/> </a>
 </p>
-
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=logwithjo&show_icons=true&locale=en&layout=compact" alt="logwithjo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logwithjo&show_icons=true&locale=en" alt="logwithjo" /></p> -->
